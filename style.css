@@ -263,7 +263,7 @@ p {
 }
 
 #showcase h1 {
-    font-size: 50px;
+    font-size: 4px;
     line-height: 1.2;
 }
 
@@ -303,7 +303,7 @@ p {
 }
 
 .slide .tent h1 {
-    margin-bottom: 10px;
+    margin-bottom: 4px;
 }
 
 .slide.current .tent {
